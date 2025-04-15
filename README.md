@@ -2,7 +2,7 @@
 
 A dedicated developer with a passion for innovative and impactful software development.
 
-- 👨🏽‍🎓 Completed a BSc in Information Systems at the University of Haifa.
+- 👨🏽‍🎓 B.Sc Graduate.
 - 💻 Experienced in working with a variety of programming languages and frameworks.
 - 🤝 Enjoy collaborating with others to solve complex problems and build amazing products.
 - 🌱 Always eager to learn new things.
